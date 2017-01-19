@@ -1,5 +1,5 @@
 # DevShop Example Repository
-## Commerce Kickstart
+## Makefiles in Git
 
 Use this repository as an example for your project.
 
